@@ -2,7 +2,7 @@
 
 This project simulates a simple line-following robot using C++. It models a robot with virtual infrared (IR) sensors, motor controllers, and different control strategies (Basic Logic and PID). The simulation is text-based and can be run from the terminal.
 
-![Project Preview](./project_image.png)
+![Project Preview](./line_follower_simulation.png)
 
 ## 🔧 Features
 
